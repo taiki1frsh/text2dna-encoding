@@ -1,1 +1,1 @@
-# Text to DNA encoding/decoding in Rust
+# Text ⇄ DNA encoding/decoding in Rust
